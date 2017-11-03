@@ -1,6 +1,3 @@
-// Valerie Sonntag
-// 2143282
-
 /* Write a program called crypto.js that encrypts passwords containing
 uppercase/lowercase characters, digits, and special characters. Use Pizza2Day!
 For the password. */
