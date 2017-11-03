@@ -1,6 +1,3 @@
-// Valerie Sonntag
-// 2143282
-
 /* Write a program called calendar.js that displays a calendar month for May
 2012 as the month and year. You must use a loop. The format of the month should
 be as shown below: Hint: You can't use console log and print on the same line.
